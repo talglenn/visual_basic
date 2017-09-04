@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Glenn_King_FinalProgrammingAssignment
+</name>
+</assembly>
+<members>
+<member name="T:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources._471fcbe9ae13f105c13f6d30b02a6f35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources.dessert">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources.drinks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources.fries">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Glenn_King_FinalProgrammingAssignment.My.Resources.Resources.steak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

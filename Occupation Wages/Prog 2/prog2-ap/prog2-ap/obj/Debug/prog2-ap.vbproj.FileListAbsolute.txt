@@ -1,0 +1,15 @@
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\bin\Debug\prog2-ap.exe.config
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\bin\Debug\prog2-ap.exe
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\bin\Debug\prog2-ap.pdb
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\bin\Debug\prog2-ap.xml
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\obj\Debug\prog2-ap.vbprojResolveAssemblyReference.cache
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\obj\Debug\prog2_ap.Resources.resources
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\obj\Debug\prog2-ap.vbproj.GenerateResource.Cache
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\obj\Debug\prog2-ap.exe
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\obj\Debug\prog2-ap.xml
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\obj\Debug\prog2-ap.pdb
+c:\users\tally tal\documents\visual studio 2015\Projects\prog2-ap\prog2-ap\obj\Debug\prog2_ap.frmCompsalary.resources
+C:\Users\Tally tal\Desktop\School Files\CPSC3118 GUI\Assignments\Programming Assignments\prog2-ap\Prog 2\prog2-ap\prog2-ap\bin\Debug\prog2-ap.exe.config
+C:\Users\Tally tal\Desktop\School Files\CPSC3118 GUI\Assignments\Programming Assignments\prog2-ap\Prog 2\prog2-ap\prog2-ap\obj\Debug\prog2-ap.exe
+C:\Users\Tally tal\Desktop\School Files\CPSC3118 GUI\Assignments\Programming Assignments\prog2-ap\Prog 2\prog2-ap\prog2-ap\obj\Debug\prog2-ap.xml
+C:\Users\Tally tal\Desktop\School Files\CPSC3118 GUI\Assignments\Programming Assignments\prog2-ap\Prog 2\prog2-ap\prog2-ap\obj\Debug\prog2-ap.pdb
